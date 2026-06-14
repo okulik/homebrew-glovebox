@@ -1,7 +1,7 @@
 # homebrew-glovebox
 
   A [Homebrew](https://brew.sh) tap for [**glovebox**](https://github.com/okulik/glovebox) -
-  a Docker-based isolation harness for running AI coding agents on macOS.
+  a Docker-based isolation harness for running AI coding agents.
 
   This repo holds only the formula (`Formula/glovebox.rb`). The source code,
   documentation, and issue tracker live in the main project repo:
